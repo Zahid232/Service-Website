@@ -475,7 +475,7 @@ footer p{
         display: none;
     }
     section{
-        padding: 150px 3%;
+        padding: 150px 5%;
         padding-bottom: 50px;
     }
     .img-home{
@@ -494,7 +494,7 @@ footer p{
         margin-top: 1.5rem;
     }
     .footer{
-        width: 80%;
+        width: 79%;
         flex-direction: column;
     }
     .footer div{
