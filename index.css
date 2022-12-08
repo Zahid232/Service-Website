@@ -468,7 +468,7 @@ footer p{
         display: block;
     }
     #menu-icon{
-        margin-left:0;
+        margin-left:3rem;
     }
     header{
         padding: 16px 0 16px 5%;
@@ -477,10 +477,8 @@ footer p{
         display: none;
     }
     section{
-        padding: 150px 0%;
+        padding: 150px 3%;
         padding-bottom: 50px;
-        margin-left: 0;
-        margin-right: 0;
     }
     .img-home{
         width: 200px;
@@ -498,7 +496,7 @@ footer p{
         margin-top: 1.5rem;
     }
     .footer{
-        width: 88%;
+        width: 80%;
         flex-direction: column;
     }
     .footer div{
