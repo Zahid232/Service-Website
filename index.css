@@ -464,18 +464,20 @@ footer p{
 @media (max-width:600px){
     #menu2-icon{
         display: block;
+        margin-left: 10px;
+
     }
     #menu-icon{
-        margin-left:1rem;
+        margin-left:2rem;
     }
     header{
-        padding: 16px 0 16px 5%;
+        padding: 13px 0 13px 5%;
     }
     .navlist {
         display: none;
     }
     section{
-        padding: 150px 4%;
+        padding: 150px 5%;
         padding-bottom: 50px;
     }
     .img-home{
@@ -494,8 +496,9 @@ footer p{
         margin-top: 1.5rem;
     }
     .footer{
-        width: 75%;
+        width: 74.5%;
         flex-direction: column;
+        margin: 0;
     }
     .footer div{
         margin-bottom: 2rem;
@@ -507,6 +510,16 @@ footer p{
     .inp{
         width: 270px;
     }
+    .about p{
+        font-size: .5rem;
+    }
 
+    .home p{
+        font-size: .5rem;
+    }
+
+    .home h2{
+        font-size: .8rem;
+    }
 }
 
